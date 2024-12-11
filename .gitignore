@@ -1,0 +1,8 @@
+delete/
+ffmpeg-2024-05-15-git-7b47099bc0-full_build/
+ffmpeg-7.0/
+.vs/
+bin/
+obj/
+Vlc.DotNet-develop/
+packages/
